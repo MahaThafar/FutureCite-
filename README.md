@@ -6,3 +6,5 @@ Submission received: 25 March 2024 / Revised: 5 June 2024 / Accepted: 14 June 20
 ''
 
 The FutureCite method is designed to predict the future citation level of research articles. This folder will include the datasets that has been utilized to develop FutureCite Method.
+
+![Alt text](https://www.mdpi.com/mca/mca-29-00059/article_deploy/html/images/mca-29-00059-g001.png)
